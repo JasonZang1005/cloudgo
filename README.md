@@ -1,5 +1,5 @@
 # cloudgo
-#curl test
+# curl test
 
     *Trying 127.0.0.1...
     *Connected to localhost (127.0.0.1) port 8080 (#0)
@@ -18,12 +18,12 @@
     }
     * Connection #0 to host localhost left intact
 
-#abtest 参数解释 
+# abtest 参数解释 
 
 - -n:请求数
 - -c:并发请求数
 
-#ab test 1
+# ab test 1
 
     This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
     Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
@@ -79,7 +79,7 @@
       99%    104
      100%    115 (longest request)
 
-#test 2
+# abtest 2
 
     This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
     Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
