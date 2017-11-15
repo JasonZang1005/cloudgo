@@ -79,7 +79,7 @@
       99%    104
      100%    115 (longest request)
 
-# abtest 2
+# ab test 2
 
     This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
     Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
