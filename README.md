@@ -16,7 +16,12 @@
     {
     "Tes": "Hello testuser"
     }
-    * Connection #0 to host localhost left intact
+    * Connection #0 to host localhost left intact
+
+#abtest 参数解释 
+
+- -n:请求数
+- -c:并发请求数
 
 #ab test 1
 
